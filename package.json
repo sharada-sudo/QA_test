@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sharada-sudo/QA_test#readme",
   "devDependencies": {
+    "@4tw/cypress-drag-drop": "^1.8.0",
     "cypress": "^8.2.0"
   }
 }
