@@ -1,5 +1,5 @@
 /// <reference types="cypress" />
-//new respondent agreeing on the comments 
+//new respondent agreeing on the comments and created the function which creates random string and passed in the email address 
 
 describe('Agree on existing comment and validation', () => {
 
